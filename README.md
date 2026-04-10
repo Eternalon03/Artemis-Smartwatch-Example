@@ -2,7 +2,7 @@ Example1 and Example2 are two simple examples of how to use the Artemis smartwat
 
 The Artemis and CircuitOS libraries are included in this repository ONLY for reference, to better understand the code, as no official documentation exists. By looking at this source code, you can pull out these functions and use them in your own projects. I've consolidated a list here, but feel free to take a look yourself, and make a pr if you find anything missing or incorrect.
 
-Here is the official codenase I got the answers from: https://github.com/CircuitMess/micropython
+Here is the official codebase I got the answers from: https://github.com/CircuitMess/micropython
 
 Feel free to follow this medium article to get set up: https://medium.com/@nplaneta03/i-got-to-host-a-workshop-on-programming-a-smartwatch-1a0f1c5778d0
 
