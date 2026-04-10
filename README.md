@@ -1,5 +1,3 @@
-# Artemis-Smartwatch-Example
-
 Example1 and Example2 are two simple examples of how to use the Artemis smartwatch board.
 
 The Artemis and CircuitOS libraries are included in this repository ONLY for reference, to better understand the code, as no official documentation exists. By looking at this source code, you can pull out these functions and use them in your own projects. I've consolidated a list here, but feel free to take a look yourself, and make a pr if you find anything missing or incorrect.
